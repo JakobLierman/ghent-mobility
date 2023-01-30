@@ -71,4 +71,11 @@ flutter test --coverage && genhtml coverage/lcov.info -o coverage/html && open c
 - [Flutter](https://flutter.dev/)
 - [Dio](https://pub.dev/packages/dio)
 
-## LicenseThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.## Contact- [GitHub](https://github.com/JakobLierman)- [LinkedIn](https://www.linkedin.com/in/jakoblierman/)
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+- [GitHub](https://github.com/JakobLierman)
+- [LinkedIn](https://www.linkedin.com/in/jakoblierman/)
