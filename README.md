@@ -69,6 +69,7 @@ flutter test --coverage && genhtml coverage/lcov.info -o coverage/html && open c
 
 - [Ghent Open Data Portal](https://data.stad.gent/explore)
 - [Flutter](https://flutter.dev/)
+- [Riverpod](https://riverpod.dev/)
 - [Dio](https://pub.dev/packages/dio)
 
 ## License

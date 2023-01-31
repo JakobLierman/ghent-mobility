@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 Future main() async {
   // Dotenv environment variables
   await dotenv.load(fileName: ".env");
 
-  runApp(const GhentMobilityApp());
+  runApp(const ProviderScope(child: GhentMobilityApp()));
 }
 
 class GhentMobilityApp extends StatelessWidget {

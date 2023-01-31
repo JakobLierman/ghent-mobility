@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 
-abstract class ApiService {
+class ApiService {
   final String baseUrl;
   late final BaseOptions _baseOptions = BaseOptions(
     baseUrl: baseUrl,
