@@ -42,7 +42,7 @@ dependencies:
   riverpod_annotation: ^1.1.1
 
   # Networking
-  dio: ^4.0.6
+  dio: ^5.0.3
 
   # Environment variables
   flutter_dotenv: ^5.0.2
